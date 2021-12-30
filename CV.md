@@ -22,3 +22,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Figma
 - VSCode
 ---
+## Code Example
+```
+function multiply (a, b) {
+return a * b
+}
+```
+***
