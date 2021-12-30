@@ -1,7 +1,7 @@
 # Alekhno Egor
 ## Junior Frontend Developer
 ---
-## Contacts
+### Contacts
 - Location: Minsk, Belarus
 - Phone: +375 44 772 47 56
 - Email: alehnoegor@gmail.com
@@ -9,12 +9,12 @@
 - Telegram: [Egoraleh](https://t.me/Egoraleh)
 - GitHub: [EgorAlekhno](https://github.com/EgorAlekhno)
 ---
-## Summery
+### Summery
 _I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas._
 
 ---
-## Skills
+### Skills
 - HTML
 - CSS/SASS
 - JavaScript (Basic)
@@ -22,22 +22,22 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Figma
 - VSCode
 ---
-## Code Example
+### Code Example
 ```
 function multiply (a, b) {
 return a * b
 }
 ```
 ***
-## Experience
+### Experience
 QA Engineer at Ester Digital (since April 2021 - Present)
 ***
-## Education
+### Education
 - University: Belarusian National Technical University, specialty "Heat and gas supply".
 - It-Academy - Software Testing
 - HTML for beginners
 - CSS for beginners
 ---
-## Languages
+### Languages
 - Russian - native
 - English - pre intermediate
