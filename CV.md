@@ -32,3 +32,12 @@ return a * b
 ## Experience
 QA Engineer at Ester Digital (since April 2021 - Present)
 ***
+## Education
+- University: Belarusian National Technical University, specialty "Heat and gas supply".
+- It-Academy - Software Testing
+- HTML for beginners
+- CSS for beginners
+---
+## Languages
+- Russian - native
+- English - pre intermediate
