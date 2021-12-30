@@ -29,3 +29,6 @@ return a * b
 }
 ```
 ***
+## Experience
+QA Engineer at Ester Digital (since April 2021 - Present)
+***
