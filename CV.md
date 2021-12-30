@@ -14,3 +14,11 @@ _I have good interpersonal skills, am an excellent team worker and very willing 
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas._
 
 ---
+## Skills
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git
+- Figma
+- VSCode
+---
